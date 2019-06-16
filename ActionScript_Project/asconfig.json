@@ -1,0 +1,10 @@
+{
+	"config": "js",
+	"compilerOptions": {
+		"html-template": "template.html"
+	},
+	"files":
+	[
+		"src/Main.as"
+	]
+}
