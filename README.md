@@ -1,6 +1,6 @@
-# [Proejct](ActionScript project)
+# [Proejct]()
 # [Setup]()
-# [Contributor]()
+# [Contribution]()
 # [Contact]()
 
 
@@ -20,8 +20,9 @@ an ActionScript that targets JavaScript &amp; html
 1. Create folder named *src* and add the code in the specific file
 1. Inside the project's root directory, create a file named *template.html*, and add the code inside it.
 
-# Contributor & Reference
-[https://github.com/mudu93]() with reference to [https://github.com/BowlerHatLLC/vscode-as3mxml]()
+# Contribution & Reference
+1. [https://github.com/mudu93]() with reference to [https://github.com/BowlerHatLLC/vscode-as3mxml]()
+1. You're welcome to raise any issues by opening new pull request(s)
 
 # Contact
 You can reach me through msugal@hotmail.com
